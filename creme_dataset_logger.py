@@ -2,7 +2,7 @@ import csv
 import time
 import random
 
-FILE_PATH = "D:\\Users\\VB85788\\PycharmProjects\\creme_deneme\\dataset.csv"
+FILE_PATH = "dataset.csv"
 LOG_PATH = ".\\Data\\"
 LOG_COUNTER = 1
 
